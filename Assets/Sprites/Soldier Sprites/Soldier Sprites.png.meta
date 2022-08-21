@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: b12d7a05309b62e4cac633fa1e0dbfbb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: U wScabbard Standing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b81576324392f3438f7cc094ec27e76
+      internalID: -1276341843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 119
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47062e04298496d439f9425ec1c73b68
+      internalID: 940873493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 119
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484ecbeb63a2aae408351a245ccbb11a
+      internalID: 1640406167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 119
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d575fcc1c5b1de4b8cedd60994360d2
+      internalID: -1032336378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a204b6409a983134c9ae6dcd515ff921
+      internalID: -1770415262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 119
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc23eff4ce019443b6f740895c7704c
+      internalID: -442029463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wScabbard Run6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c489eb7b2c0db4d9ff4bf20952d228
+      internalID: -1344077940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Aim
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0407ef2e0b0fe4e4297b5acc51782346
+      internalID: -1238773713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Shoot
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5080393e55dbf4699e87b9318f0b03
+      internalID: -2105596754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Leap1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 115
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61f003023aad14b8ff1ebc87886691
+      internalID: 313976679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Leap2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 115
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf849ac1a9707d488ca06a1485a9c4e
+      internalID: 1043321891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Leap3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19678f09ad71a49ac78b8c679ae9ed
+      internalID: 1200284537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Pistol
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285199c9794494a4b8760db6153c395f
+      internalID: 776312683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Pistol Shoot
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 110
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecad324e3e3506246943760a7ebcaaec
+      internalID: 1926941116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Pistol Down
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 110
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27740505fce316479e15394d5162c68
+      internalID: -2026236772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Pistol Reload
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 110
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74070dd7fc46744e9aa6de672c86a27
+      internalID: -2011461617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc52888e7f7c9a744b3c30d72fc3ac90
+      internalID: -621885298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76993dc62a50f424a801dbb13c406eca
+      internalID: -1490803392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3aa86e7afee5f459ba1d2bb9186228
+      internalID: 1914530044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 98
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9d787238138d43ad1960767b2ac4e
+      internalID: -1688963924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf718101c24f6740935ea01f79c683f
+      internalID: 2028898013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a58abd90fc734dbd96136062247bf
+      internalID: -1258561699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Run6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a58ed55189d64296103284e599720
+      internalID: -183216892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Stand wRifle
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 98
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6241ca01f8bae34ea80d4f81071e43d
+      internalID: -1776207868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Bayonet1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 98
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7435dd2a5b174a9e175f249299307
+      internalID: 160025446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Bayonet2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a6ffffc90794b4c9aafb938aeb794a
+      internalID: -1184358587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Bayonet3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 97
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622deb194f5ff8c468c5fdf89a8cade7
+      internalID: -1378613907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Leap1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 90
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce8f6c1df9d3d4c9e0e70e6489211e
+      internalID: 453940189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Leap2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 90
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9304f6f89fa4734aba1f43d6b66676d
+      internalID: -1360537763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wScabbard Leap3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bafec2f8518dc40aef0e41225cb6f2
+      internalID: 826813272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U wSabre Standing
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 82
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47825017f28e2214a8de4e8911db69c5
+      internalID: -2065208816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Sabre1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 82
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d1b6adb645c54085d41c9dbb0d935
+      internalID: -4568123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Sabre2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 82
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5493d8c67cabf459125db93ac7cfff
+      internalID: -320980079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Sabre3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 82
+        width: 23
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60174f0b16031e643ac5e4b580c99008
+      internalID: 1285695816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Standing
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a6b6855003584fb6c2ae3e28f2ec5
+      internalID: 1469601110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 77
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6314a93ee6f02e4696eda1a837cd895
+      internalID: 1940366836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61109995712b029488b77134d119143a
+      internalID: 534711236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 77
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4ee63cd8126a42a6f5e2463340e6b
+      internalID: -934447038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b4dc3668186e49a3f48d971ccfb90
+      internalID: 1362420344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2dd65db18d3634aabeafd371fe8c81
+      internalID: -1454373076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Run6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151d9088f278e54496d5161207d63c5
+      internalID: -1963205077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcf86b12644b9438fa3ce7bda094c0
+      internalID: 9616589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf71a52b323044a8c21306d4ff89ae
+      internalID: -1947879791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 56
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f061e766cff5844681378eef0aa999e
+      internalID: 1426284394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a708942dbffdbd847ad0db0986857329
+      internalID: 652869506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 56
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af99227365b072f4597d101cf9700d1e
+      internalID: -120122606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wRifle Run6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 56
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea08646a772a0b40be3898207d77054
+      internalID: 1921607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Standing
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062783536ed6b9468c858b79ae0c370
+      internalID: -323950521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9586dad255c6ae46b0aa733d21ade3a
+      internalID: 885739454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 56
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a96b98af2084b4b8f42385c7f66bf8
+      internalID: -1826194137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08907f988cce2484eb7124513470df0c
+      internalID: 1056345181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 56
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3421e8aa50e5d458d1c3aca7104e2f
+      internalID: 214864894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 56
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c49972a554bc4092ab00258cd96b3
+      internalID: 211619930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Run6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 56
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e8546f0841fc4f96a4c0039bb0d55
+      internalID: -1323306766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Hit Forward
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 57
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.49999723, y: 0.5129709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177bd137f5bb71f44876f7fc59c92763
+      internalID: -103844109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Dead Forward
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 57
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2531e5dd1d7c50489981ce257d2cb15
+      internalID: -949159463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Dead Back
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 57
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b868dae2f557724eba732d1c6902a08
+      internalID: 953589631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Aim
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 55
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd8d3b5bccaf4c40a22c2f37ff0c400
+      internalID: -2013817382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Shoot
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 56
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c0632a3c958b4cb816b02a2346e20
+      internalID: 578618000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Stand wRifle
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 56
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70c1b184126d24ba192aa9b05d5363
+      internalID: 254771721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Bayonet1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 56
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a0042b909f434fbda5c0ce4bf0a42
+      internalID: -606229758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Bayonet2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 56
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570ec679e81e544287b6dafaf4d49e8
+      internalID: -1540993111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Bayonet3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 55
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81986e5092edb5744806c403da0e135a
+      internalID: 10323496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Hit Backward
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd51c8a1abaf64eada9b170c15521c
+      internalID: -1547947486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Dead Forward
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 44
+        width: 21
+        height: 5
+      alignment: 9
+      pivot: {x: 0.23809524, y: 2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66efaa993a7ee92429c26f2636e9f130
+      internalID: 717117980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Dead Back
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 45
+        width: 18
+        height: 8
+      alignment: 9
+      pivot: {x: 0.2777778, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd4cd01806c4844bb3d36f8847b318c
+      internalID: -559179708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Pistol
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa99ea44c6ff67449b5a8875ccd1d75
+      internalID: 1209991914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Pistol Shoot
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 23
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9157a78f92ebf4a990c6bd73cd2710
+      internalID: -1505065821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Pistol down
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 23
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d081b67d6ca2df4092681d56db508fc
+      internalID: 431512537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Pistol Reload
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a1bf0079d9f94fb7436e4423d9bb4
+      internalID: 177330717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Hit Backward
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 25
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd20786fe015c47a6b0ba9c8e53596
+      internalID: -2107333692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U Hit Forward
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 24
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9daba095248c847b5b036ee2a0814c
+      internalID: -1375264480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D wSabre Standing
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d51e484da4a004cbf903bebec0f121
+      internalID: 281153493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Sabre1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170eccecb610e5a408e40babe489b848
+      internalID: 1326534920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Sabre2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb72bce4b9aa4b4fb36454d84369e5c
+      internalID: -1006590317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D Sabre3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a319663d2f967468e02f2e6bed35de
+      internalID: 710667207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      D Sabre2: -1006590317
+      U Sabre1: -4568123
+      D Dead Forward: -949159463
+      D Dead Back: 953589631
+      D wScabbard Run6: -183216892
+      D Run6: -1323306766
+      U Run2: 534711236
+      Soldier Sprites_16: -621885298
+      D Sabre3: 710667207
+      Soldier Sprites_55: 1148576374
+      D Pistol Shoot: -1505065821
+      D wScabbard Run1: -1490803392
+      D wScabbard Run2: 1914530044
+      U Stand wRifle: 254771721
+      U wScabbard Standing: -1276341843
+      U Pistol Reload: -2011461617
+      U Hit Backward: -2107333692
+      D Bayonet2: -1184358587
+      U Standing: 1469601110
+      D Run4: 214864894
+      U Dead Forward: 717117980
+      U Pistol Down: -2026236772
+      U Pistol: 776312683
+      U Sabre2: -320980079
+      D Pistol: 1209991914
+      D Leap3: 1200284537
+      U Aim: -2013817382
+      U wScabbard Run4: -1770415262
+      D Aim: -1238773713
+      D Leap1: 313976679
+      D Hit Forward: -103844109
+      U Shoot: 578618000
+      D Pistol down: 431512537
+      D wScabbard Run4: 2028898013
+      U Run3: -934447038
+      U Run4: 1362420344
+      D Sabre1: 1326534920
+      D Hit Backward: -1547947486
+      D Leap2: 1043321891
+      U Bayonet1: -606229758
+      D Run1: 885739454
+      U Hit Forward: -1375264480
+      D Run5: 211619930
+      U wScabbard Run6: -1344077940
+      D wScabbard Run3: -1688963924
+      U Run1: 1940366836
+      D Bayonet3: -1378613907
+      D Shoot: -2105596754
+      U wScabbard Run2: 1640406167
+      U Sabre3: 1285695816
+      D wScabbard Leap3: 826813272
+      U Run5: -1454373076
+      U wScabbard Run1: 940873493
+      U Bayonet3: 10323496
+      D wRifle Run6: 1921607955
+      U wSabre Standing: -2065208816
+      U wScabbard Run5: -442029463
+      D wSabre Standing: 281153493
+      D Run2: -1826194137
+      D Bayonet1: 160025446
+      D wRifle Run2: -1947879791
+      D Pistol Reload: 177330717
+      D wScabbard Leap1: 453940189
+      D wRifle Run3: 1426284394
+      D wScabbard Leap2: -1360537763
+      U Pistol Shoot: 1926941116
+      U wScabbard Run3: -1032336378
+      D Stand wRifle: -1776207868
+      D Standing: -323950521
+      D wScabbard Run5: -1258561699
+      D wRifle Run1: 9616589
+      Soldier Sprites_0: -94507703
+      U Dead Back: -559179708
+      D wRifle Run5: -120122606
+      U Bayonet2: -1540993111
+      D wRifle Run4: 652869506
+      D Run3: 1056345181
+      U Run6: -1963205077
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
